@@ -1,0 +1,23 @@
+You will be given:
+1. An issue description explaining a bug or expected behavior.
+2. The code that should be evaluated against the issue.
+
+Your task:
+- Determine whether the code resolves the issue described.
+- Base your judgment strictly on the information in the issue description and the code.
+- Do NOT guess beyond what is shown.
+- Do NOT analyze unrelated parts of the code.
+
+Output rules:
+- Respond with EXACTLY one word: "yes" or "no".
+- No explanations, no reasoning, no additional text.
+
+<issue>
+{issue_description}
+</issue>
+
+<code>
+{fixed_code}
+</code>
+
+Does the code resolve the issue? Respond with "yes" or "no" only.

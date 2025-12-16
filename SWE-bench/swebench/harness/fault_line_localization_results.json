@@ -1,0 +1,2707 @@
+[
+  {
+    "id": "astropy__astropy-12907",
+    "pred_change_lines": [
+      [
+        306,
+        312
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        242,
+        249
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 64.0,
+      "end_range_diff": 63.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "astropy__astropy-14182",
+    "pred_change_lines": [
+      [
+        57,
+        67
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        27,
+        34
+      ],
+      [
+        39,
+        51
+      ],
+      [
+        57,
+        67
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 16.0,
+      "end_range_diff": 16.333333333333332,
+      "total_gt_changes": 3,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "astropy__astropy-14365",
+    "pred_change_lines": [
+      [
+        68,
+        75
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        68,
+        75
+      ],
+      [
+        306,
+        313
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 493.0,
+      "end_range_diff": 507.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 3,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "astropy__astropy-14995",
+    "pred_change_lines": [
+      [
+        483,
+        531
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        520,
+        530
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 37.0,
+      "end_range_diff": 1.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.20833333333333334
+    }
+  },
+  {
+    "id": "astropy__astropy-6938",
+    "pred_change_lines": [
+      [
+        1261,
+        1268
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1261,
+        1268
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "astropy__astropy-7746",
+    "pred_change_lines": [
+      [
+        1220,
+        1226
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1212,
+        1218
+      ],
+      [
+        1235,
+        1241
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 11.5,
+      "end_range_diff": 11.5,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-10914",
+    "pred_change_lines": [
+      [
+        304,
+        311
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        304,
+        311
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-10924",
+    "pred_change_lines": [
+      [
+        2366,
+        2369
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1709,
+        1716
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 657.0,
+      "end_range_diff": 653.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11001",
+    "pred_change_lines": [
+      [
+        353,
+        360
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        32,
+        39
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 321.0,
+      "end_range_diff": 321.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11019",
+    "pred_change_lines": [
+      [
+        33,
+        41
+      ],
+      [
+        117,
+        155
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        6,
+        22
+      ],
+      [
+        59,
+        81
+      ],
+      [
+        115,
+        154
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 102.0,
+      "end_range_diff": 126.66666666666667,
+      "total_gt_changes": 3,
+      "total_pred_changes": 2,
+      "average_iou": 0.925
+    }
+  },
+  {
+    "id": "django__django-11039",
+    "pred_change_lines": [
+      [
+        56,
+        63
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        55,
+        63
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 1.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.875
+    }
+  },
+  {
+    "id": "django__django-11049",
+    "pred_change_lines": [
+      [
+        468,
+        478
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1587,
+        1594
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 1119.0,
+      "end_range_diff": 1116.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11099",
+    "pred_change_lines": [
+      [
+        7,
+        14
+      ],
+      [
+        17,
+        24
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        7,
+        14
+      ],
+      [
+        17,
+        24
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 2,
+      "start_range_diff": 10.0,
+      "end_range_diff": 10.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.5
+    }
+  },
+  {
+    "id": "django__django-11133",
+    "pred_change_lines": [
+      [
+        309,
+        316
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        229,
+        236
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 80.0,
+      "end_range_diff": 80.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11179",
+    "pred_change_lines": [
+      [
+        277,
+        283
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        277,
+        283
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-11283",
+    "pred_change_lines": [
+      [
+        0,
+        0
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1,
+        6
+      ],
+      [
+        7,
+        13
+      ],
+      [
+        24,
+        34
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 10.666666666666666,
+      "end_range_diff": 17.666666666666668,
+      "total_gt_changes": 3,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11422",
+    "pred_change_lines": [
+      [
+        219,
+        225
+      ],
+      [
+        235,
+        589
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        114,
+        121
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 340.0,
+      "end_range_diff": 693.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 3,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11564",
+    "pred_change_lines": [
+      [
+        104,
+        110
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        15,
+        22
+      ],
+      [
+        109,
+        115
+      ],
+      [
+        128,
+        134
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 39.333333333333336,
+      "end_range_diff": 39.0,
+      "total_gt_changes": 3,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11583",
+    "pred_change_lines": [
+      [
+        139,
+        146
+      ],
+      [
+        187,
+        194
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        143,
+        149
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 48.0,
+      "end_range_diff": 48.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11620",
+    "pred_change_lines": [
+      [
+        10,
+        16
+      ],
+      [
+        260,
+        266
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        5,
+        15
+      ],
+      [
+        483,
+        490
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 478.0,
+      "end_range_diff": 475.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11630",
+    "pred_change_lines": [
+      [
+        5,
+        11
+      ],
+      [
+        35,
+        51
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        4,
+        11
+      ],
+      [
+        35,
+        49
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 2,
+      "start_range_diff": 31.0,
+      "end_range_diff": 40.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.4375
+    }
+  },
+  {
+    "id": "django__django-11742",
+    "pred_change_lines": [
+      [
+        156,
+        162
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        257,
+        263
+      ],
+      [
+        270,
+        286
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 107.5,
+      "end_range_diff": 112.5,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11797",
+    "pred_change_lines": [
+      [
+        1711,
+        1718
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        262,
+        271
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 1449.0,
+      "end_range_diff": 1447.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11815",
+    "pred_change_lines": [
+      [
+        120,
+        129
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        120,
+        129
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 120.0,
+      "end_range_diff": 129.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11848",
+    "pred_change_lines": [
+      [
+        176,
+        186
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        176,
+        186
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-11905",
+    "pred_change_lines": [
+      [
+        464,
+        470
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1,
+        6
+      ],
+      [
+        9,
+        15
+      ],
+      [
+        463,
+        469
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 306.3333333333333,
+      "end_range_diff": 306.6666666666667,
+      "total_gt_changes": 3,
+      "total_pred_changes": 1,
+      "average_iou": 0.7142857142857143
+    }
+  },
+  {
+    "id": "django__django-11910",
+    "pred_change_lines": [
+      [
+        352,
+        358
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        927,
+        933
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 575.0,
+      "end_range_diff": 575.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11964",
+    "pred_change_lines": [
+      [
+        73,
+        76
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        60,
+        67
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 13.0,
+      "end_range_diff": 9.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-11999",
+    "pred_change_lines": [
+      [
+        763,
+        772
+      ],
+      [
+        833,
+        842
+      ],
+      [
+        890,
+        899
+      ],
+      [
+        954,
+        963
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        763,
+        771
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 388.0,
+      "end_range_diff": 392.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 4,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12113",
+    "pred_change_lines": [
+      [
+        201,
+        208
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        98,
+        102
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 103.0,
+      "end_range_diff": 106.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12125",
+    "pred_change_lines": [
+      [
+        1141,
+        1147
+      ],
+      [
+        1476,
+        1482
+      ],
+      [
+        1586,
+        1592
+      ],
+      [
+        1628,
+        1634
+      ],
+      [
+        1823,
+        1829
+      ],
+      [
+        1871,
+        1877
+      ],
+      [
+        1930,
+        1936
+      ],
+      [
+        2006,
+        2012
+      ],
+      [
+        2123,
+        2129
+      ],
+      [
+        2202,
+        2208
+      ],
+      [
+        2242,
+        2248
+      ],
+      [
+        2292,
+        2298
+      ],
+      [
+        2359,
+        2365
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        269,
+        276
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 21182.0,
+      "end_range_diff": 21169.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 13,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12184",
+    "pred_change_lines": [],
+    "gt_change_lines": [
+      [
+        158,
+        166
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 0,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12284",
+    "pred_change_lines": [
+      [
+        943,
+        950
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        764,
+        771
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 179.0,
+      "end_range_diff": 179.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12286",
+    "pred_change_lines": [
+      [
+        56,
+        62
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1,
+        5
+      ],
+      [
+        55,
+        62
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 28.0,
+      "end_range_diff": 28.5,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 0.8571428571428571
+    }
+  },
+  {
+    "id": "django__django-12308",
+    "pred_change_lines": [
+      [
+        398,
+        404
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        398,
+        404
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-12453",
+    "pred_change_lines": [
+      [
+        5,
+        12
+      ],
+      [
+        121,
+        135
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        6,
+        12
+      ],
+      [
+        126,
+        134
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 2,
+      "start_range_diff": 121.0,
+      "end_range_diff": 123.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.2857142857142857
+    }
+  },
+  {
+    "id": "django__django-12470",
+    "pred_change_lines": [
+      [
+        1883,
+        1913
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        709,
+        718
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 1174.0,
+      "end_range_diff": 1195.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12497",
+    "pred_change_lines": [],
+    "gt_change_lines": [
+      [
+        1309,
+        1316
+      ],
+      [
+        1329,
+        1336
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 0,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12589",
+    "pred_change_lines": [
+      [
+        1051,
+        1058
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1927,
+        1933
+      ],
+      [
+        1940,
+        1947
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 882.5,
+      "end_range_diff": 882.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12700",
+    "pred_change_lines": [
+      [
+        80,
+        107
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        90,
+        96
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 10.0,
+      "end_range_diff": 11.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.2222222222222222
+    }
+  },
+  {
+    "id": "django__django-12708",
+    "pred_change_lines": [
+      [
+        124,
+        130
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        393,
+        400
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 269.0,
+      "end_range_diff": 270.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12747",
+    "pred_change_lines": [
+      [
+        395,
+        402
+      ],
+      [
+        442,
+        446
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        408,
+        415
+      ],
+      [
+        426,
+        433
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 47.0,
+      "end_range_diff": 44.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12856",
+    "pred_change_lines": [],
+    "gt_change_lines": [
+      [
+        1926,
+        1932
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 0,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12908",
+    "pred_change_lines": [
+      [
+        0,
+        0
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1138,
+        1144
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 1138.0,
+      "end_range_diff": 1144.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-12915",
+    "pred_change_lines": [
+      [
+        52,
+        58
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1,
+        7
+      ],
+      [
+        52,
+        58
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 25.5,
+      "end_range_diff": 25.5,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-12983",
+    "pred_change_lines": [
+      [
+        403,
+        410
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        393,
+        410
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 10.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.4117647058823529
+    }
+  },
+  {
+    "id": "django__django-13028",
+    "pred_change_lines": [
+      [
+        1124,
+        1130
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1124,
+        1131
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 1.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.8571428571428571
+    }
+  },
+  {
+    "id": "django__django-13033",
+    "pred_change_lines": [],
+    "gt_change_lines": [
+      [
+        727,
+        734
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 0,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13158",
+    "pred_change_lines": [
+      [
+        1777,
+        1783
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        305,
+        311
+      ],
+      [
+        1777,
+        1783
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 736.0,
+      "end_range_diff": 736.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-13220",
+    "pred_change_lines": [
+      [
+        99,
+        168
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1,
+        7
+      ],
+      [
+        182,
+        188
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 90.5,
+      "end_range_diff": 90.5,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13230",
+    "pred_change_lines": [
+      [
+        214,
+        220
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        212,
+        218
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 2.0,
+      "end_range_diff": 2.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.5
+    }
+  },
+  {
+    "id": "django__django-13265",
+    "pred_change_lines": [],
+    "gt_change_lines": [
+      [
+        182,
+        194
+      ],
+      [
+        613,
+        619
+      ],
+      [
+        654,
+        673
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 3,
+      "total_pred_changes": 0,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13315",
+    "pred_change_lines": [
+      [
+        100,
+        107
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        97,
+        107
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 3.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.7
+    }
+  },
+  {
+    "id": "django__django-13321",
+    "pred_change_lines": [
+      [
+        1,
+        5
+      ],
+      [
+        132,
+        139
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        121,
+        127
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 131.0,
+      "end_range_diff": 134.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13401",
+    "pred_change_lines": [
+      [
+        109,
+        115
+      ],
+      [
+        207,
+        214
+      ],
+      [
+        17,
+        23
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        516,
+        533
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 1215.0,
+      "end_range_diff": 1247.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 3,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13447",
+    "pred_change_lines": [
+      [
+        466,
+        472
+      ],
+      [
+        567,
+        570
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        461,
+        467
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 111.0,
+      "end_range_diff": 108.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13448",
+    "pred_change_lines": [
+      [
+        74,
+        81
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        58,
+        65
+      ],
+      [
+        69,
+        75
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 10.5,
+      "end_range_diff": 11.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 0.08333333333333333
+    }
+  },
+  {
+    "id": "django__django-13551",
+    "pred_change_lines": [
+      [
+        76,
+        82
+      ],
+      [
+        94,
+        101
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        78,
+        87
+      ],
+      [
+        94,
+        101
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 2,
+      "start_range_diff": 18.0,
+      "end_range_diff": 19.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.5
+    }
+  },
+  {
+    "id": "django__django-13590",
+    "pred_change_lines": [
+      [
+        1077,
+        1087
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1077,
+        1087
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-13658",
+    "pred_change_lines": [
+      [
+        344,
+        351
+      ],
+      [
+        278,
+        284
+      ],
+      [
+        115,
+        122
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        344,
+        351
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 295.0,
+      "end_range_diff": 296.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 3,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13660",
+    "pred_change_lines": [
+      [
+        84,
+        91
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        84,
+        97
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 6.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.5384615384615384
+    }
+  },
+  {
+    "id": "django__django-13710",
+    "pred_change_lines": [
+      [
+        2040,
+        2047
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        2037,
+        2047
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 3.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.7
+    }
+  },
+  {
+    "id": "django__django-13757",
+    "pred_change_lines": [
+      [
+        368,
+        380
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        366,
+        380
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 2.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.8571428571428571
+    }
+  },
+  {
+    "id": "django__django-13768",
+    "pred_change_lines": [
+      [
+        1,
+        7
+      ],
+      [
+        208,
+        214
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        11
+      ],
+      [
+        208,
+        214
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 3,
+      "start_range_diff": 207.0,
+      "end_range_diff": 209.0,
+      "total_gt_changes": 3,
+      "total_pred_changes": 2,
+      "average_iou": 0.3333333333333333
+    }
+  },
+  {
+    "id": "django__django-13925",
+    "pred_change_lines": [
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        41,
+        47
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5,
+        11
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        13,
+        19
+      ],
+      [
+        25,
+        35
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        370,
+        376
+      ],
+      [
+        379,
+        385
+      ],
+      [
+        438,
+        444
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        8
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1299,
+        1305
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 25973.0,
+      "end_range_diff": 25980.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 21,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13933",
+    "pred_change_lines": [
+      [
+        1104,
+        1112
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1284,
+        1291
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 180.0,
+      "end_range_diff": 179.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-13964",
+    "pred_change_lines": [
+      [
+        264,
+        271
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        933,
+        940
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 2535.0,
+      "end_range_diff": 2549.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 3,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14016",
+    "pred_change_lines": [
+      [
+        38,
+        46
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        5,
+        12
+      ],
+      [
+        46,
+        56
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 20.5,
+      "end_range_diff": 22.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14017",
+    "pred_change_lines": [
+      [
+        136,
+        1443
+      ],
+      [
+        39,
+        57
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        40,
+        47
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 97.0,
+      "end_range_diff": 1406.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.3888888888888889
+    }
+  },
+  {
+    "id": "django__django-14155",
+    "pred_change_lines": [
+      [
+        31,
+        37
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        59,
+        68
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 28.0,
+      "end_range_diff": 31.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14238",
+    "pred_change_lines": [
+      [
+        2524,
+        2533
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        2524,
+        2531
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 2.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.7777777777777778
+    }
+  },
+  {
+    "id": "django__django-14382",
+    "pred_change_lines": [
+      [
+        74,
+        81
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        73,
+        82
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 1.0,
+      "end_range_diff": 1.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.7777777777777778
+    }
+  },
+  {
+    "id": "django__django-14411",
+    "pred_change_lines": [
+      [
+        34,
+        40
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        50,
+        56
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 16.0,
+      "end_range_diff": 16.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14534",
+    "pred_change_lines": [
+      [
+        277,
+        285
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        277,
+        284
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 1.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.875
+    }
+  },
+  {
+    "id": "django__django-14580",
+    "pred_change_lines": [
+      [
+        168,
+        175
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        273,
+        280
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 105.0,
+      "end_range_diff": 105.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14608",
+    "pred_change_lines": [
+      [
+        333,
+        340
+      ],
+      [
+        380,
+        387
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        333,
+        340
+      ],
+      [
+        380,
+        387
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 2,
+      "start_range_diff": 47.0,
+      "end_range_diff": 47.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.5
+    }
+  },
+  {
+    "id": "django__django-14667",
+    "pred_change_lines": [],
+    "gt_change_lines": [
+      [
+        2086,
+        2093
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 0,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14672",
+    "pred_change_lines": [
+      [
+        303,
+        309
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        310,
+        317
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 7.0,
+      "end_range_diff": 8.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14730",
+    "pred_change_lines": [
+      [
+        1179,
+        1185
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1258,
+        1264
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 79.0,
+      "end_range_diff": 79.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14752",
+    "pred_change_lines": [
+      [
+        5,
+        11
+      ],
+      [
+        26,
+        33
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        11,
+        18
+      ],
+      [
+        26,
+        38
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 39.5,
+      "end_range_diff": 55.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 3,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14787",
+    "pred_change_lines": [
+      [
+        1,
+        6
+      ],
+      [
+        176,
+        180
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        37,
+        44
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 175.0,
+      "end_range_diff": 174.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14855",
+    "pred_change_lines": [
+      [
+        209,
+        216
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        209,
+        216
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-14915",
+    "pred_change_lines": [
+      [
+        636,
+        648
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1166,
+        1172
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 530.0,
+      "end_range_diff": 524.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14997",
+    "pred_change_lines": [
+      [
+        419,
+        426
+      ],
+      [
+        430,
+        437
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        212,
+        223
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 425.0,
+      "end_range_diff": 417.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-14999",
+    "pred_change_lines": [
+      [
+        318,
+        326
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        320,
+        332
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 2.0,
+      "end_range_diff": 6.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.42857142857142855
+    }
+  },
+  {
+    "id": "django__django-15061",
+    "pred_change_lines": [
+      [
+        848,
+        858
+      ],
+      [
+        1058,
+        1069
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        849,
+        858
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 210.0,
+      "end_range_diff": 211.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15202",
+    "pred_change_lines": [
+      [
+        127,
+        134
+      ],
+      [
+        139,
+        146
+      ],
+      [
+        545,
+        549
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        108,
+        123
+      ],
+      [
+        127,
+        134
+      ],
+      [
+        139,
+        146
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 2,
+      "start_range_diff": 445.0,
+      "end_range_diff": 434.0,
+      "total_gt_changes": 3,
+      "total_pred_changes": 3,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15213",
+    "pred_change_lines": [
+      [
+        979,
+        985
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        994,
+        1000
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 15.0,
+      "end_range_diff": 15.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15252",
+    "pred_change_lines": [
+      [
+        58,
+        64
+      ],
+      [
+        74,
+        80
+      ],
+      [
+        83,
+        94
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        96,
+        104
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 73.0,
+      "end_range_diff": 74.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 3,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15320",
+    "pred_change_lines": [
+      [
+        1150,
+        1156
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1149,
+        1156
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 1.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.8571428571428571
+    }
+  },
+  {
+    "id": "django__django-15347",
+    "pred_change_lines": [
+      [
+        19,
+        26
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        19,
+        26
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 1.0
+    }
+  },
+  {
+    "id": "django__django-15388",
+    "pred_change_lines": [
+      [
+        272,
+        278
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        48,
+        54
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 224.0,
+      "end_range_diff": 224.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15400",
+    "pred_change_lines": [
+      [
+        192,
+        205
+      ],
+      [
+        445,
+        448
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        432,
+        438
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 253.0,
+      "end_range_diff": 243.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15498",
+    "pred_change_lines": [
+      [
+        10,
+        17
+      ],
+      [
+        125,
+        141
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        129,
+        141
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 1,
+      "start_range_diff": 123.0,
+      "end_range_diff": 124.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.75
+    }
+  },
+  {
+    "id": "django__django-15695",
+    "pred_change_lines": [
+      [
+        99,
+        106
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        960,
+        966
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 861.0,
+      "end_range_diff": 860.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15738",
+    "pred_change_lines": [
+      [
+        0,
+        0
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        1022,
+        1030
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 1022.0,
+      "end_range_diff": 1030.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 1,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15781",
+    "pred_change_lines": [
+      [
+        5,
+        12
+      ],
+      [
+        102,
+        109
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        286,
+        296
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 465.0,
+      "end_range_diff": 471.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 2,
+      "average_iou": 0.0
+    }
+  },
+  {
+    "id": "django__django-15789",
+    "pred_change_lines": [
+      [
+        59,
+        66
+      ],
+      [
+        67,
+        74
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        59,
+        66
+      ],
+      [
+        67,
+        74
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 2,
+      "start_range_diff": 8.0,
+      "end_range_diff": 8.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.5
+    }
+  },
+  {
+    "id": "django__django-15790",
+    "pred_change_lines": [
+      [
+        50,
+        65
+      ],
+      [
+        66,
+        73
+      ]
+    ],
+    "gt_change_lines": [
+      [
+        50,
+        65
+      ],
+      [
+        66,
+        73
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 2,
+      "start_range_diff": 16.0,
+      "end_range_diff": 8.0,
+      "total_gt_changes": 2,
+      "total_pred_changes": 2,
+      "average_iou": 0.5
+    }
+  },
+  {
+    "id": "django__django-15814",
+    "pred_change_lines": [],
+    "gt_change_lines": [
+      [
+        748,
+        754
+      ]
+    ],
+    "overlap_info": {
+      "overlap_count": 0,
+      "start_range_diff": 0.0,
+      "end_range_diff": 0.0,
+      "total_gt_changes": 1,
+      "total_pred_changes": 0,
+      "average_iou": 0.0
+    }
+  }
+]
